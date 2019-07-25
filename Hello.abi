@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"name","type":"string"}],"name":"say","outputs":[{"name":"","type":"string"}],"payable":false,"stateMutability":"nonpayable","type":"function"}]
